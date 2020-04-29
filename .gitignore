@@ -15,4 +15,4 @@
 # vendor/
 
 # built go program
-/webhooks/webhooks
+webhooks/webhooks
